@@ -1,0 +1,36 @@
+{
+  "name": "01-architecture",
+  "version": "1.0.0",
+  "description": "example projet",
+  "main": "app.start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vesass/express-repository.git"
+  },
+  "keywords": [
+    "technocite",
+    "js",
+    "node",
+    "mongoose",
+    "express"
+  ],
+  "author": "Maxime Godart-Hupet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vesass/express-repository/issues"
+  },
+  "homepage": "https://github.com/Vesass/express-repository#readme",
+  "devDependencies": {
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^6.0.0",
+    "errorhandler": "^1.5.0",
+    "es6-promisify": "^6.0.0",
+    "express": "^4.16.3",
+    "express-hbs": "^1.0.4",
+    "mongoose": "^5.2.13",
+    "node-notifier": "^5.2.1"
+  }
+}
