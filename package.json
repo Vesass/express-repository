@@ -32,5 +32,8 @@
     "express-hbs": "^1.0.4",
     "mongoose": "^5.2.13",
     "node-notifier": "^5.2.1"
+  },
+  "dependencies": {
+    "i18n": "^0.8.3"
   }
 }
